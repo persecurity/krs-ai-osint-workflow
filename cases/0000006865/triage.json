@@ -1,0 +1,10 @@
+{
+ "risk": "high",
+ "rationale": "Spółka charakteryzuje się wysoką zmiennością danych rejestrowych, w tym częstymi zmianami nazwy, adresu siedziby oraz kapitału zakładowego. Szczególnie niepokojące są bardzo częste zmiany w składzie zarządu oraz zmiana głównego przedmiotu działalności, co może sugerować potencjalne ryzyko oszustw lub niestabilności operacyjnej.",
+ "themes": [
+  "Częste zmiany zarządu",
+  "Zmiany adresu siedziby",
+  "Zmiany kapitału zakładowego",
+  "Zmiana profilu działalności"
+ ]
+}

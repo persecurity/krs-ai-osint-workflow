@@ -1,0 +1,81 @@
+[
+ {
+  "rule": "frequent_name_changes",
+  "severity": "medium",
+  "description": "Podmiot zmieniał nazwę 3 raz(y).",
+  "citations": [
+   "[wpis 1, 2001-04-06]",
+   "[wpis 3, 2002-01-21]",
+   "[wpis 60, 2011-07-25]",
+   "[wpis 66, 2012-12-14]"
+  ]
+ },
+ {
+  "rule": "frequent_address_changes",
+  "severity": "medium",
+  "description": "Adres siedziby zmieniał się 9 raz(y).",
+  "citations": [
+   "[wpis 1, 2001-04-06]",
+   "[wpis 21, 2006-02-10]",
+   "[wpis 26, 2006-09-08]",
+   "[wpis 31, 2007-10-02]",
+   "[wpis 47, 2010-04-30]",
+   "[wpis 60, 2011-07-25]",
+   "[wpis 105, 2021-03-30]",
+   "[wpis 105, 2021-03-30]",
+   "[wpis 152, 2025-01-03]",
+   "[wpis 164, 2026-01-02]"
+  ]
+ },
+ {
+  "rule": "board_churn",
+  "severity": "high",
+  "description": "Nietypowo intensywne zmiany w reprezentacji/zarządzie: 61 zmian w 2001, 53 zmian w 2002, 31 zmian w 2003, 53 zmian w 2004, 42 zmian w 2005, 89 zmian w 2006, 90 zmian w 2007, 36 zmian w 2008, 24 zmian w 2009, 48 zmian w 2010, 35 zmian w 2011, 11 zmian w 2015, 12 zmian w 2016, 11 zmian w 2017, 9 zmian w 2019, 18 zmian w 2021, 13 zmian w 2022, 15 zmian w 2023, 29 zmian w 2025",
+  "citations": [
+   "[wpis 1, 2001-04-06]",
+   "[wpis 1, 2001-04-06]",
+   "[wpis 7, 2002-10-16]",
+   "[wpis 7, 2002-10-16]",
+   "[wpis 8, 2003-03-21]",
+   "[wpis 8, 2003-03-21]",
+   "[wpis 13, 2004-02-27]",
+   "[wpis 13, 2004-02-27]",
+   "[wpis 16, 2005-04-27]",
+   "[wpis 16, 2005-04-27]",
+   "[wpis 21, 2006-02-10]",
+   "[wpis 21, 2006-02-10]",
+   "[wpis 29, 2007-07-25]",
+   "[wpis 29, 2007-07-25]",
+   "[wpis 36, 2008-01-10]",
+   "[wpis 36, 2008-01-10]"
+  ]
+ },
+ {
+  "rule": "frequent_capital_changes",
+  "severity": "medium",
+  "description": "Wysokość kapitału zakładowego zmieniała się 17 raz(y).",
+  "citations": [
+   "[wpis 1, 2001-04-06]",
+   "[wpis 2, 2001-12-07]",
+   "[wpis 3, 2002-01-21]",
+   "[wpis 9, 2003-05-09]",
+   "[wpis 10, 2003-10-09]",
+   "[wpis 24, 2006-06-28]",
+   "[wpis 28, 2007-06-27]",
+   "[wpis 39, 2008-04-11]",
+   "[wpis 47, 2010-04-30]",
+   "[wpis 56, 2011-02-07]",
+   "[wpis 57, 2011-02-17]",
+   "[wpis 58, 2011-03-16]"
+  ]
+ },
+ {
+  "rule": "main_activity_pivot",
+  "severity": "high",
+  "description": "Deklarowany główny przedmiot działalności (PKD) zmieniał się 1 raz(y) — nagłe zmiany profilu działalności są znanym wskaźnikiem oszustw karuzelowych VAT.",
+  "citations": [
+   "[wpis 70, 2015-06-17]",
+   "[wpis 163, 2025-09-12]"
+  ]
+ }
+]
