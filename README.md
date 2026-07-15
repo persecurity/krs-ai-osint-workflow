@@ -1,9 +1,9 @@
 # KRS Investigator
 
-Agent AI OSINT do śledztw gospodarczych opartych na otwartym API Krajowego
+AI OSINT Workflow do śledztw opartych na otwartym API Krajowego
 Rejestru Sądowego (KRS).
 
-Dla podanego numeru KRS agent:
+Dla podanego numeru KRS workflow:
 
 1. pobiera wypis aktualny i pełny (każda odpowiedź jest zapisywana,
    haszowana SHA-256 i logowana w `evidence/manifest.jsonl` — jako element chain of custody),
